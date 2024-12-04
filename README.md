@@ -71,8 +71,4 @@ Les contributions sont les bienvenues ! Pour contribuer :
 📝 Licence
 
 Ce projet est sous licence MIT.
-📧 Contact
 
-    Nom : [Ton Nom]
-    Email : [ton.email@example.com]
-    LinkedIn : [Ton Profil LinkedIn]
